@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pocker", "Pocker\Pocker.csproj", "{D66FEDE2-6E5B-484D-ADE1-907728721293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{DA730084-6E93-4C7A-86D7-9A5C88E95A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D66FEDE2-6E5B-484D-ADE1-907728721293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66FEDE2-6E5B-484D-ADE1-907728721293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66FEDE2-6E5B-484D-ADE1-907728721293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66FEDE2-6E5B-484D-ADE1-907728721293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA730084-6E93-4C7A-86D7-9A5C88E95A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA730084-6E93-4C7A-86D7-9A5C88E95A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA730084-6E93-4C7A-86D7-9A5C88E95A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA730084-6E93-4C7A-86D7-9A5C88E95A45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D8AA31E-5D3F-47E1-B60D-C8DF130EDAA6}
+	EndGlobalSection
+EndGlobal
